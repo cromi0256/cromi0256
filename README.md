@@ -11,4 +11,4 @@
   * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : 파이토치, 주로 딥러닝 모델을 다룹니다
 
 * 📚읽을거리
-  * 
+  * [마크다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
