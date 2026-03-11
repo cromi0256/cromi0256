@@ -4,7 +4,7 @@
 * 📋경력
   * 자격증 : 컴퓨터활용능력 1급, ADsP, SQLD, 빅데이터 분석기사
   * 대회 : K리그-서울시립대 공개 AI 경진대회 장려상 [[link]](https://github.com/cromi0256/core/blob/main/etc/236647-1-515950.pdf)
-  * 부트캠프 : KT Aivle DX 7기 최우수상 [url-placehold]
+  * 부트캠프 : KT Aivle DX 7기 최우수상 [[link]](https://github.com/cromi0256/core/tree/main/etc/%5BProject02%5DaivleschoolDXsolution)
 
 * 💪기술 스택
   * [[ML]](https://github.com/cromi0256/core/tree/main/ML) : 사이킷런, 주로 정형데이터를 다룹니다
