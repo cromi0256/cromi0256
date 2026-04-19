@@ -14,9 +14,9 @@
 
 * 📄프로젝트
   * Project00()
-  * Project01(https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 머신러닝 모델 개발
-  * Project02(https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 프로덕트 매니징
-  * Project03dev(https://github.com/cromi0256/core/tree/82ea14bc25254a851cb1aa00659bb4df956cec1b/Operations/Project03dev) : 0단계 MLOps 구축
+  * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 머신러닝 모델 개발
+  * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 프로덕트 매니징
+  * [Project03dev](https://github.com/cromi0256/core/tree/82ea14bc25254a851cb1aa00659bb4df956cec1b/Operations/Project03dev) : 0단계 MLOps 구축
 
 * 📚읽을거리
   * [마크다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
