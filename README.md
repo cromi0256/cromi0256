@@ -9,8 +9,8 @@
 * 💪기술 스택
   * [[ML]](https://github.com/cromi0256/core/tree/main/ML) : 사이킷런, 주로 정형데이터를 다룹니다
   * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : 파이토치, 주로 딥러닝 모델을 다룹니다
-  * [[Operations]](https://github.com/cromi0256/core/tree/82ea14bc25254a851cb1aa00659bb4df956cec1b/Operations) : 모델의 시스템 배포 및 운영을 다룹니다
-  * [[SOTA]] : 개인적인 공부로 생각과 코드를 연구합니다
+  * [[Operations]](https://github.com/cromi0256/core/tree/Operations) : 모델의 시스템 배포 및 운영을 다룹니다
+  * [[SOTA]](https://github.com/cromi0256/core/tree/SOTA) : 개인적인 공부로 생각과 코드를 연구합니다
 
 * 📄프로젝트
   * Project00()
