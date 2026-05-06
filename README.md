@@ -34,3 +34,4 @@
 
 * 📚읽을거리
   * [마크다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+  * [뱃지 제작](https://shields.io/badges)
