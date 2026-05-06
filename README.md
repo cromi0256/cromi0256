@@ -7,6 +7,20 @@
   * 부트캠프 : KT Aivle DX 7기 최우수상 [[link]](https://github.com/cromi0256/core/tree/main/etc/%5BProject02%5DaivleschoolDXsolution)
 
 * 💪기술 스택
+  
+  ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB)
+  ![Static Badge](https://img.shields.io/badge/Bash-hex?style=flat&logo=GNU%20Bash&logoColor=ffffff&color=%234EAA25)
+  ![Static Badge](https://img.shields.io/badge/scikit--learn-hex?style=flat&logo=scikit-learn&logoColor=ffffff&color=%23F7931E)
+  ![Static Badge](https://img.shields.io/badge/Optuna-hex?style=flat&logo=Optuna&logoColor=ffffff&color=%23002C76)
+  ![Static Badge](https://img.shields.io/badge/pandas-hex?style=flat&logo=pandas&logoColor=ffffff&color=%23150458)
+  ![Static Badge](https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C)
+  ![Static Badge](https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2)
+  ![Static Badge](https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032)
+  ![Static Badge](https://img.shields.io/badge/GitHub-hex?style=flat&logo=GitHub&logoColor=ffffff&color=%23181717)
+  ![Static Badge](https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF)
+  ![Static Badge](https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED)
+
+  
   * [[ML]](https://github.com/cromi0256/core/tree/main/ML) : 사이킷런, 주로 정형데이터를 다룹니다
   * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : 파이토치, 주로 딥러닝 모델을 다룹니다
   * [[Operations]](https://github.com/cromi0256/core/tree/main/Operations) : 모델의 시스템 배포 및 운영을 다룹니다
