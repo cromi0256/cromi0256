@@ -26,6 +26,10 @@
   * [[Operations]](https://github.com/cromi0256/core/tree/main/Operations) : 모델의 시스템 배포 및 운영을 다룹니다
   * [[SOTA]](https://github.com/cromi0256/core/tree/main/SOTA) : 개인적인 공부로 생각과 코드를 연구합니다
 
+* 💡Brilliant!
+  * [판다스에서 더 빠른 폴라스로]
+  * []
+
 * 📄프로젝트
   * Project00()
   * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 경진대회 우승자의 머신러닝 전략
