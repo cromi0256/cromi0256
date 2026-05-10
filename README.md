@@ -13,6 +13,7 @@
   ![Static Badge](https://img.shields.io/badge/scikit--learn-hex?style=flat&logo=scikit-learn&logoColor=ffffff&color=%23F7931E)
   ![Static Badge](https://img.shields.io/badge/Optuna-hex?style=flat&logo=Optuna&logoColor=ffffff&color=%23002C76)
   ![Static Badge](https://img.shields.io/badge/pandas-hex?style=flat&logo=pandas&logoColor=ffffff&color=%23150458)
+  ![Static Badge](https://img.shields.io/badge/Polars-hex?style=flat&logo=Polars&logoColor=%23ffffff&color=%230075FF)
   ![Static Badge](https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C)
   ![Static Badge](https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2)
   ![Static Badge](https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032)
@@ -27,8 +28,8 @@
   * [[SOTA]](https://github.com/cromi0256/core/tree/main/SOTA) : 개인적인 공부로 생각과 코드를 연구합니다
 
 * 💡Brilliant!
-  * [판다스에서 더 빠른 폴라스로]
-  * []
+  * [판다스에서 더 빠른 폴라스로](https://github.com/cromi0256/core/tree/main/SOTA/Polars)
+  * [설명력 있는 모델을 만드려면]
 
 * 📄프로젝트
   * Project00()
