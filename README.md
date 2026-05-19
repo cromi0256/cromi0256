@@ -29,7 +29,7 @@
 
 * 💡Brilliant!
   * [판다스에서 더 빠른 폴라스로](https://github.com/cromi0256/core/tree/main/SOTA/Polars)
-  * [설명력 있는 모델을 만드려면]
+  * [설명력 있는 모델을 만드려면](https://github.com/cromi0256/core/tree/main/SOTA/Explain)
 
 * 📄프로젝트
   * Project00()
