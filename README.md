@@ -25,6 +25,7 @@
   * [[ML]](https://github.com/cromi0256/core/tree/main/ML) : 사이킷런, 주로 정형데이터를 다룹니다
   * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : 파이토치, 주로 딥러닝 모델을 다룹니다
   * [[Operations]](https://github.com/cromi0256/core/tree/main/Operations) : 모델의 시스템 배포 및 운영을 다룹니다
+  * [[LLM&Agents]]() : 거대 언어 모델과 AI 에이전트 운용을 다룹니다
   * [[SOTA]](https://github.com/cromi0256/core/tree/main/SOTA) : 개인적인 공부로 생각과 코드를 연구합니다
 
 * 💡Brilliant!
@@ -33,11 +34,13 @@
   * [엣지AI를 위한 모델 경량화]
 
 * 📄프로젝트
-  * Project00()
+  * Project00() : 이미지 분류 모델 경진대회 도전작 재설계
   * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 경진대회 우승자의 머신러닝 전략
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
+  * [Project04dev] : 한국어 LLM 파인튜닝 시범작
 
 * 📚읽을거리
   * [마크다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
   * [뱃지 제작](https://shields.io/badges)
+  * [개발자 로드맵](https://roadmap.sh)
