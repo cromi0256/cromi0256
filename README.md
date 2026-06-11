@@ -8,25 +8,11 @@
 
 * 💪기술 스택
   
-  ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB)
-  ![Static Badge](https://img.shields.io/badge/Bash-hex?style=flat&logo=GNU%20Bash&logoColor=ffffff&color=%234EAA25)
-  ![Static Badge](https://img.shields.io/badge/scikit--learn-hex?style=flat&logo=scikit-learn&logoColor=ffffff&color=%23F7931E)
-  ![Static Badge](https://img.shields.io/badge/Optuna-hex?style=flat&logo=Optuna&logoColor=ffffff&color=%23002C76)
-  ![Static Badge](https://img.shields.io/badge/pandas-hex?style=flat&logo=pandas&logoColor=ffffff&color=%23150458)
-  ![Static Badge](https://img.shields.io/badge/Polars-hex?style=flat&logo=Polars&logoColor=%23ffffff&color=%230075FF)
-  ![Static Badge](https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C)
-  ![Static Badge](https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2)
-  ![Static Badge](https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032)
-  ![Static Badge](https://img.shields.io/badge/GitHub-hex?style=flat&logo=GitHub&logoColor=ffffff&color=%23181717)
-  ![Static Badge](https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF)
-  ![Static Badge](https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED)
-
-  
   * [[ML]](https://github.com/cromi0256/core/tree/main/ML) : ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB)
      - 데이터분석 : ![Static Badge](https://img.shields.io/badge/pandas-hex?style=flat&logo=pandas&logoColor=ffffff&color=%23150458) ![Static Badge](https://img.shields.io/badge/Polars-hex?style=flat&logo=Polars&logoColor=%23ffffff&color=%230075FF)
-     - 데이터시각화 : 
+     - 데이터시각화 : ![Static Badge](https://img.shields.io/badge/Plotly-hex?style=flat&logo=Plotly&logoColor=ffffff&color=%237A76FF)
      - 모델개발 : ![Static Badge](https://img.shields.io/badge/scikit--learn-hex?style=flat&logo=scikit-learn&logoColor=ffffff&color=%23F7931E) ![Static Badge](https://img.shields.io/badge/Optuna-hex?style=flat&logo=Optuna&logoColor=ffffff&color=%23002C76)
-     - 모델해석 :
+     - 모델평가 :
      - 실험추적 : ![Static Badge](https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2)
   * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : ![Static Badge](https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C)
      - 컴퓨터비전 : 
@@ -40,8 +26,9 @@
      - 컨테이너화 : ![Static Badge](https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED)
      - 오케스트레이션 :
      - 관찰가능성 :
-     - 거버넌스 :
-  * [[LLM&Agents]]() : 거대 언어 모델과 AI 에이전트 운용을 다룹니다
+     - 거버넌스 : ![Static Badge](https://img.shields.io/badge/Pydantic-hex?style=flat&logo=Pydantic&logoColor=ffffff&color=%23E92063)
+  * [[LLM&Agents]]() : ![Static Badge](https://img.shields.io/badge/Hugging_Face-hex?style=flat&logo=Hugging%20Face&logoColor=ffffff&color=%23FFD21E)
+     - 파운데이션
   * [[SOTA]](https://github.com/cromi0256/core/tree/main/SOTA) : 개인적인 공부로 생각과 코드를 연구합니다
 
 * 💡Brilliant!
