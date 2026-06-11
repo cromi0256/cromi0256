@@ -22,16 +22,31 @@
   ![Static Badge](https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED)
 
   
-  * [[ML]](https://github.com/cromi0256/core/tree/main/ML) : 사이킷런, 주로 정형데이터를 다룹니다
-  * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : 파이토치, 주로 딥러닝 모델을 다룹니다
-  * [[Operations]](https://github.com/cromi0256/core/tree/main/Operations) : 모델의 시스템 배포 및 운영을 다룹니다
+  * [[ML]](https://github.com/cromi0256/core/tree/main/ML) : ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB)
+     - 데이터분석 : ![Static Badge](https://img.shields.io/badge/pandas-hex?style=flat&logo=pandas&logoColor=ffffff&color=%23150458) ![Static Badge](https://img.shields.io/badge/Polars-hex?style=flat&logo=Polars&logoColor=%23ffffff&color=%230075FF)
+     - 데이터시각화 : 
+     - 모델개발 : ![Static Badge](https://img.shields.io/badge/scikit--learn-hex?style=flat&logo=scikit-learn&logoColor=ffffff&color=%23F7931E) ![Static Badge](https://img.shields.io/badge/Optuna-hex?style=flat&logo=Optuna&logoColor=ffffff&color=%23002C76)
+     - 모델해석 :
+     - 실험추적 : ![Static Badge](https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2)
+  * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : ![Static Badge](https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C)
+     - 컴퓨터비전 : 
+     - 자연어분석 :
+     - 강화학습 :
+     - 엣지AI : 
+  * [[Operations]](https://github.com/cromi0256/core/tree/main/Operations) :
+     - 버전컨트롤 : ![Static Badge](https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032)  ![Static Badge](https://img.shields.io/badge/GitHub-hex?style=flat&logo=GitHub&logoColor=ffffff&color=%23181717)
+     - CI/CD : ![Static Badge](https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF)
+     - 클라우드컴퓨팅 :
+     - 컨테이너화 : ![Static Badge](https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED)
+     - 오케스트레이션 :
+     - 관찰가능성 :
+     - 거버넌스 :
   * [[LLM&Agents]]() : 거대 언어 모델과 AI 에이전트 운용을 다룹니다
   * [[SOTA]](https://github.com/cromi0256/core/tree/main/SOTA) : 개인적인 공부로 생각과 코드를 연구합니다
 
 * 💡Brilliant!
   * [판다스에서 더 빠른 폴라스로](https://github.com/cromi0256/core/tree/main/SOTA/Polars)
   * [설명력 있는 모델을 만드려면](https://github.com/cromi0256/core/tree/main/SOTA/Explain)
-  * [엣지AI를 위한 모델 경량화]
 
 * 📄프로젝트
   * Project00() : 이미지 분류 모델 경진대회 도전작 재설계
