@@ -15,25 +15,24 @@
      - 모델평가 :
      - 실험추적 : ![Static Badge](https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2)
   * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : ![Static Badge](https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C)
-     - 컴퓨터비전 : 
-     - 자연어분석 :
+     - 컴퓨터비전 : [torchvision]
      - 강화학습 :
      - 엣지AI : 
   * [[Operations]](https://github.com/cromi0256/core/tree/main/Operations) :
      - 버전컨트롤 : ![Static Badge](https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032)  ![Static Badge](https://img.shields.io/badge/GitHub-hex?style=flat&logo=GitHub&logoColor=ffffff&color=%23181717)
      - CI/CD : ![Static Badge](https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF)
-     - 클라우드컴퓨팅 :
+     - 클라우드컴퓨팅 : 
      - 컨테이너화 : ![Static Badge](https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED)
      - 오케스트레이션 :
      - 관찰가능성 :
      - 거버넌스 : ![Static Badge](https://img.shields.io/badge/Pydantic-hex?style=flat&logo=Pydantic&logoColor=ffffff&color=%23E92063)
   * [[LLM&Agents]]() : ![Static Badge](https://img.shields.io/badge/Hugging_Face-hex?style=flat&logo=Hugging%20Face&logoColor=ffffff&color=%23FFD21E)
      - 파운데이션
-  * [[SOTA]](https://github.com/cromi0256/core/tree/main/SOTA) : 개인적인 공부로 생각과 코드를 연구합니다
 
-* 💡Brilliant!
+* 💡[Brilliant!](https://github.com/cromi0256/core/tree/main/SOTA)
   * [판다스에서 더 빠른 폴라스로](https://github.com/cromi0256/core/tree/main/SOTA/Polars)
   * [설명력 있는 모델을 만드려면](https://github.com/cromi0256/core/tree/main/SOTA/Explain)
+  * [파이토치 최강의 CNN모델](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf)
 
 * 📄프로젝트
   * Project00() : 이미지 분류 모델 경진대회 도전작 재설계
@@ -41,6 +40,11 @@
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
   * [Project04dev] : 한국어 LLM 파인튜닝 시범작
+
+* ✨추천 자료
+  * [Book - 핸즈온 머신러닝]
+  * [Book - AI 엔지니어링]
+  * [Git - pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
 * 📚읽을거리
   * [마크다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
