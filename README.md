@@ -32,7 +32,7 @@
 * 💡[Brilliant!](https://github.com/cromi0256/core/tree/main/SOTA)
   * [판다스에서 더 빠른 폴라스로](https://github.com/cromi0256/core/tree/main/SOTA/Polars)
   * [설명력 있는 모델을 만드려면](https://github.com/cromi0256/core/tree/main/SOTA/Explain)
-  * [파이토치 최강의 CNN모델](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf)
+  * [파이토치 최강의 이미지 학습전략](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf)
 
 * 📄프로젝트
   * Project00() : 이미지 분류 모델 경진대회 도전작 재설계
