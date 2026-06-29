@@ -15,17 +15,13 @@
      - 모델평가 :
      - 실험추적 : ![Static Badge](https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2)
   * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : ![Static Badge](https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C)
-     - 컴퓨터비전 : [torchvision]
+     - 컴퓨터비전 : 이미지 분류 : [torchvision]
      - 강화학습 :
-     - 엣지AI : 
   * [[Operations]](https://github.com/cromi0256/core/tree/main/Operations) :
      - 버전컨트롤 : ![Static Badge](https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032)  ![Static Badge](https://img.shields.io/badge/GitHub-hex?style=flat&logo=GitHub&logoColor=ffffff&color=%23181717)
      - CI/CD : ![Static Badge](https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF)
      - 클라우드컴퓨팅 : 
      - 컨테이너화 : ![Static Badge](https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED)
-     - 오케스트레이션 :
-     - 관찰가능성 :
-     - 거버넌스 : ![Static Badge](https://img.shields.io/badge/Pydantic-hex?style=flat&logo=Pydantic&logoColor=ffffff&color=%23E92063)
   * [[LLM&Agents]]() : ![Static Badge](https://img.shields.io/badge/Hugging_Face-hex?style=flat&logo=Hugging%20Face&logoColor=ffffff&color=%23FFD21E)
      - 파운데이션
 
@@ -35,7 +31,7 @@
   * [파이토치 최강의 이미지 학습전략](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf)
 
 * 📄프로젝트
-  * Project00() : 이미지 분류 모델 경진대회 도전작 재설계
+  * [Project00](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf) : 파이토치에서 알려주는 이미지 분류 모델 설계 전략
   * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 경진대회 우승자의 머신러닝 전략
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
