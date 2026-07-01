@@ -28,7 +28,7 @@
 * 💡[Brilliant!](https://github.com/cromi0256/core/tree/main/SOTA)
   * [판다스에서 더 빠른 폴라스로](https://github.com/cromi0256/core/tree/main/SOTA/Polars)
   * [설명력 있는 모델을 만드려면](https://github.com/cromi0256/core/tree/main/SOTA/Explain)
-  * [파이토치 최강의 이미지 학습전략](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf)
+  * [데이터 분석과 ML 분석 시각화](https://github.com/cromi0256/core/tree/main/SOTA/Analysis)
 
 * 📄프로젝트
   * [Project00](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf) : 파이토치에서 알려주는 이미지 분류 모델 설계 전략
