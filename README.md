@@ -1,5 +1,6 @@
 ## 👣 데이터 과학자가 되기까지의 여정 👣
-작업물과 생각을 정리하고 있습니다
+빠르게 변화하는 AI시대에 최전선의 기술을 배우고 있습니다.
+**신뢰**를 최우선으로 하여, 작성한 코드를 설명력 있게 표현하고자 합니다.
 
 * 📋경력
   * 자격증 : 컴퓨터활용능력 1급, ADsP, SQLD, 빅데이터 분석기사
@@ -15,8 +16,8 @@
      - 모델평가 :
      - 실험추적 : ![Static Badge](https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2)
   * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : ![Static Badge](https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C)
-     - 컴퓨터비전 : 이미지 분류 : [torchvision]
-     - 강화학습 :
+     - 컴퓨터비전 : 이미지 분류[torchvision]
+     - 엣지AI : 엣지컴퓨팅[ExecuTorch]
   * [[Operations]](https://github.com/cromi0256/core/tree/main/Operations) :
      - 버전컨트롤 : ![Static Badge](https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032)  ![Static Badge](https://img.shields.io/badge/GitHub-hex?style=flat&logo=GitHub&logoColor=ffffff&color=%23181717)
      - CI/CD : ![Static Badge](https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF)
@@ -35,7 +36,7 @@
   * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 경진대회 우승자의 머신러닝 전략
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
-  * [Project04dev] : 한국어 LLM 파인튜닝 시범작
+  * [Project04dev] : 모바일 기기에서 작동하는 Image Segment 모델 배포
 
 * ✨추천 자료
   * [Book - 핸즈온 머신러닝]
