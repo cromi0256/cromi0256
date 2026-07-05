@@ -36,7 +36,7 @@
   * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 경진대회 우승자의 머신러닝 전략
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
-  * [Project04dev] : 모바일 기기에서 작동하는 Image Segment 모델 배포
+  * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포
 
 * ✨추천 자료
   * [Book - 핸즈온 머신러닝]
