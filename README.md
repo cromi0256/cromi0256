@@ -41,6 +41,7 @@
 * ✨추천 자료
   * [Book - 핸즈온 머신러닝]
   * [Book - AI 엔지니어링]
+  * [awesome-production-ML](https://github.com/EthicalML/awesome-production-machine-learning)
   * [Git - pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
 * 📚읽을거리
