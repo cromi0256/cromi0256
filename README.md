@@ -2,6 +2,7 @@
 빠르게 변화하는 AI시대에 최전선의 기술을 배우고 있습니다.
 **신뢰**를 최우선으로 하여, 작성한 코드를 설명력 있게 표현하고자 합니다.
 
+
 * 📋경력
   * 자격증 : 컴퓨터활용능력 1급, ADsP, SQLD, 빅데이터 분석기사
   * 대회 : K리그-서울시립대 공개 AI 경진대회 장려상 [[link]](https://github.com/cromi0256/core/blob/main/etc/236647-1-515950.pdf)
@@ -37,6 +38,7 @@
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
   * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포
+  * [Project05]...
 
 * ✨추천 자료
   * [Book - 핸즈온 머신러닝]
