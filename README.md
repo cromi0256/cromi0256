@@ -1,5 +1,5 @@
 ## 👣 데이터 과학자가 되기까지의 여정 👣
-[자기소개서](https://portfolio2026-topaz-three.vercel.app/)
+[자기소개서](https://portfolio2026-topaz-three.vercel.app/) : Stitch, AI Studio로 제작
 
 
 * 📋경력
@@ -36,12 +36,12 @@
   * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 경진대회 우승자의 머신러닝 전략
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
-  * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포
+  * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(Edge AI)
   * [Project05]...
 
 * ✨추천 자료
-  * [Book - 핸즈온 머신러닝]
-  * [Book - AI 엔지니어링]
+  * [Book - 핸즈온 머신러닝](https://www.hanbit.co.kr/books/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3%ED%8C%90?code=B1539397165)
+  * [Book - AI 엔지니어링](https://www.hanbit.co.kr/books/ai-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81?code=B3535685426)
   * [awesome-production-ML](https://github.com/EthicalML/awesome-production-machine-learning)
   * [Git - pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
