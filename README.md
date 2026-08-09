@@ -44,6 +44,7 @@
   * [Book - AI 엔지니어링](https://www.hanbit.co.kr/books/ai-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81?code=B3535685426)
   * [awesome-production-ML](https://github.com/EthicalML/awesome-production-machine-learning)
   * [Git - pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+  * [Skills - Google](https://www.skills.google/paths/504)
 
 * 📚읽을거리
   * [마크다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
