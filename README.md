@@ -1,6 +1,8 @@
 ## 👣 데이터 과학자가 되기까지의 여정 👣
 [자기소개서](https://portfolio2026-topaz-three.vercel.app/) : Stitch, AI Studio로 제작
 
+개발에 그치는 모델이 아닌 운영에 중심을 둔 퀄리티를 개발합니다
+
 
 * 📋경력
   * 자격증 : 컴퓨터활용능력 1급, ADsP, SQLD, 빅데이터 분석기사
@@ -37,7 +39,7 @@
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
   * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(Edge AI)
-  * [Project05](https://github.com/cromi0256/core/tree/main/SOTA/Project05) : 2026 최신 트렌드의 달라진 개발 환경(uv, polars...)
+  * [Project05](https://github.com/cromi0256/core/tree/main/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
 
 * ✨추천 자료
   * [Book - 핸즈온 머신러닝](https://www.hanbit.co.kr/books/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3%ED%8C%90?code=B1539397165)
