@@ -9,6 +9,14 @@
   * 대회 : K리그-서울시립대 공개 AI 경진대회 장려상 [[link]](https://github.com/cromi0256/core/blob/main/etc/236647-1-515950.pdf)
   * 부트캠프 : KT Aivle DX 7기 최우수상 [[link]](https://github.com/cromi0256/core/tree/main/etc/%5BProject02%5DaivleschoolDXsolution)
 
+* 📄프로젝트
+  * [Project00](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf) : 파이토치에서 알려주는 이미지 분류 모델 설계 전략
+  * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 경진대회 우승자의 머신러닝 전략
+  * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
+  * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
+  * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(Edge AI)
+  * [Project05](https://github.com/cromi0256/core/tree/main/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
+
 * 💪기술 스택
   
   * [[ML]](https://github.com/cromi0256/core/tree/main/ML) : ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB)
@@ -32,14 +40,6 @@
   * [판다스에서 더 빠른 폴라스로](https://github.com/cromi0256/core/tree/main/SOTA/Polars)
   * [설명력 있는 모델을 만드려면](https://github.com/cromi0256/core/tree/main/SOTA/Explain)
   * [데이터 분석과 ML 분석 시각화](https://github.com/cromi0256/core/tree/main/SOTA/Analysis)
-
-* 📄프로젝트
-  * [Project00](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf) : 파이토치에서 알려주는 이미지 분류 모델 설계 전략
-  * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 경진대회 우승자의 머신러닝 전략
-  * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
-  * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 클라우드 배포와 모니터링까지
-  * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(Edge AI)
-  * [Project05](https://github.com/cromi0256/core/tree/main/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
 
 * ✨추천 자료
   * [Book - 핸즈온 머신러닝](https://www.hanbit.co.kr/books/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3%ED%8C%90?code=B1539397165)
