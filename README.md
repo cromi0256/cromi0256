@@ -33,7 +33,7 @@
      - CI/CD : ![Static Badge](https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF)
      - 클라우드컴퓨팅 : 
      - 컨테이너화 : ![Static Badge](https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED)
-  * [[LLM&Agents]]() : ![Static Badge](https://img.shields.io/badge/Hugging_Face-hex?style=flat&logo=Hugging%20Face&logoColor=ffffff&color=%23FFD21E)
+  * [[Agentic AI]](https://github.com/cromi0256/core/tree/main/Agentic_AI) : ![Static Badge](https://img.shields.io/badge/Hugging_Face-hex?style=flat&logo=Hugging%20Face&logoColor=ffffff&color=%23FFD21E)
      - 파운데이션
 
 * 💡[Brilliant!](https://github.com/cromi0256/core/tree/main/SOTA)
