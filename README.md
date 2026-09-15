@@ -19,13 +19,24 @@
 
 * 💪기술 스택
   <details>
-  * <summary>[[ML]](https://github.com/cromi0256/core/tree/main/ML) : ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB)</summary>
-     - 데이터분석 : ![Static Badge](https://img.shields.io/badge/pandas-hex?style=flat&logo=pandas&logoColor=ffffff&color=%23150458) ![Static Badge](https://img.shields.io/badge/Polars-hex?style=flat&logo=Polars&logoColor=%23ffffff&color=%230075FF)
-     - 데이터시각화 : ![Static Badge](https://img.shields.io/badge/Plotly-hex?style=flat&logo=Plotly&logoColor=ffffff&color=%237A76FF)
-     - 모델개발 : ![Static Badge](https://img.shields.io/badge/scikit--learn-hex?style=flat&logo=scikit-learn&logoColor=ffffff&color=%23F7931E) ![Static Badge](https://img.shields.io/badge/Optuna-hex?style=flat&logo=Optuna&logoColor=ffffff&color=%23002C76)
-     - 모델평가 :
-     - 실험추적 : ![Static Badge](https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2)
-</details>
+  <summary><a href="https://github.com/cromi0256/core/tree/main/ML">[ML]</a> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB">
+  </summary>
+  데이터분석 : 
+  <img src="https://img.shields.io/badge/pandas-hex?style=flat&logo=pandas&logoColor=ffffff&color=%23150458">
+  <img src="https://img.shields.io/badge/Polars-hex?style=flat&logo=Polars&logoColor=%23ffffff&color=%230075FF">
+  
+  데이터시각화 :
+  <img src="https://img.shields.io/badge/Plotly-hex?style=flat&logo=Plotly&logoColor=ffffff&color=%237A76FF">
+   
+  모델개발 :
+  <img src="https://img.shields.io/badge/scikit--learn-hex?style=flat&logo=scikit-learn&logoColor=ffffff&color=%23F7931E">
+  <img src="https://img.shields.io/badge/Optuna-hex?style=flat&logo=Optuna&logoColor=ffffff&color=%23002C76">
+   
+  모델평가 :
+   
+  실험추적 :
+  <img src="https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2">
+  </details>
   * [[DL]](https://github.com/cromi0256/core/tree/main/DL) : ![Static Badge](https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C)
      - 컴퓨터비전 : 이미지 분류[torchvision]
      - 엣지AI : 엣지컴퓨팅[ExecuTorch]
