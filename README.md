@@ -60,9 +60,13 @@ CI/CD :
 <img src="https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF">
 
 클라우드컴퓨팅 : 
+<img src="https://img.shields.io/badge/Google_Cloud-hex?style=flat&logo=Google%20Cloud&logoColor=ffffff&color=%234285F4">
 
 컨테이너화 : 
 <img src="https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED">
+
+인프라형 코드 :
+<img src="https://img.shields.io/badge/Terraform-hex?style=flat&logo=Terraform&logoColor=ffffff&color=%23844FBA">
 
 </details>
 
@@ -71,6 +75,28 @@ CI/CD :
 </summary>
  
 파운데이션 :
+
+프레임워크 :
+<img src="https://img.shields.io/badge/LangChain-hex?style=flat&logo=LangChain&logoColor=ffffff&color=%237FC8FF">
+<img src="https://img.shields.io/badge/LangGraph-hex?style=flat&logo=LangGraph&logoColor=ffffff&color=%237FC8FF">
+
+</details>
+
+<details>
+<summary>[유틸리티]
+</summary>
+
+환경변수 관리 :
+<img src="https://img.shields.io/badge/dotenv-hex?style=flat&logo=dotenv&logoColor=ffffff&color=%#23ECD53F">
+
+패키지 관리 :
+<img src="https://img.shields.io/badge/uv-hex?style=flat&logo=uv&logoColor=ffffff&color=%23DE5FE9">
+
+코드 검증 : 
+<img src="https://img.shields.io/badge/ruff-hex?style=flat&logo=ruff&logoColor=ffffff&color=%23D7FF64">
+
+정적 타이핑 :
+<img src="https://img.shields.io/badge/ruff-hex?style=flat&logo=ruff&logoColor=ffffff&color=%23E92063">
 
 </details>
 
