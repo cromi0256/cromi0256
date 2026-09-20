@@ -1,7 +1,11 @@
 ## 👣 데이터 과학자가 되기까지의 여정 👣
 [자기소개서](https://portfolio2026-topaz-three.vercel.app/) : Stitch, AI Studio로 제작
 
-개발에 그치는 모델이 아닌 운영에 중심을 둔 퀄리티를 개발합니다
+개발에 그치는 모델이 아닌 운영에 중심을 둔 퀄리티를 개발합니다.
+
+간결한 코드, 이해하기 쉬운 코드로 최적의 솔루션을 목표로 합니다.
+
+거짓과 과장없이 검증된 시연으로 신뢰를 최우선합니다.
 
 
 * 📋경력
@@ -16,6 +20,7 @@
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 도커를 사용한 클라우드 배포와 모니터링까지
   * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(Edge AI)
   * [Project05](https://github.com/cromi0256/core/tree/main/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
+  * [Project06]...
 
 * 💪기술 스택
 <details>
