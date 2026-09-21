@@ -7,6 +7,8 @@
 
 거짓과 과장없이 검증된 시연으로 신뢰를 최우선합니다.
 
+데이터분석가, ML엔지니어, AI엔지니어, MLOps 분야의 지식과 스킬을 갖고 있습니다.
+
 
 * 📋경력
   * 자격증 : 컴퓨터활용능력 1급, ADsP, SQLD, 빅데이터 분석기사
@@ -20,7 +22,7 @@
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 도커를 사용한 클라우드 배포와 모니터링까지
   * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(Edge AI)
   * [Project05](https://github.com/cromi0256/core/tree/main/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
-  * [Project06]...
+  * [WIP][Project06](https://github.com/cromi0256/DailyInspiration) : AI에이전트로 매일 영감을 주는 웹 서비스 개발(gemini, langchain, streamlit...)
 
 * 💪기술 스택
 <details>
