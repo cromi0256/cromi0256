@@ -17,10 +17,10 @@
 
 * 📄프로젝트
   * [Project00](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf) : 파이토치에서 알려주는 이미지 분류 모델 설계 전략
-  * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 서울시립대 경진대회 우승자의 머신러닝 전략
+  * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 서울시립대 경진대회 우승자의 머신러닝 전략(시계열, 2D 공간 좌표)
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
-  * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 도커를 사용한 클라우드 배포와 모니터링까지
-  * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(Edge AI)
+  * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 도커를 사용한 클라우드 배포와 모니터링까지(Docker, AWS, FastAPI...)
+  * [Project04](https://github.com/cromi0256/core/tree/main/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(PyTorch, ExecuTorch...)
   * [Project05](https://github.com/cromi0256/core/tree/main/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
   * [WIP][Project06](https://github.com/cromi0256/DailyInspiration) : AI에이전트로 매일 영감을 주는 웹 서비스 개발(gemini, langchain, streamlit...)
 
@@ -50,9 +50,9 @@
 <summary><a href="https://github.com/cromi0256/core/tree/main/DL">[DL]</a> <img src="https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C">
 </summary>
  
-컴퓨터비전 : 이미지 분류[torchvision]
+컴퓨터비전 : [torchvision]
 
-엣지AI : 엣지컴퓨팅[ExecuTorch]
+엣지AI : [ExecuTorch]
 </details>
 
 <details>
@@ -86,24 +86,6 @@ CI/CD :
 프레임워크 :
 <img src="https://img.shields.io/badge/LangChain-hex?style=flat&logo=LangChain&logoColor=ffffff&color=%237FC8FF">
 <img src="https://img.shields.io/badge/LangGraph-hex?style=flat&logo=LangGraph&logoColor=ffffff&color=%237FC8FF">
-
-</details>
-
-<details>
-<summary>[유틸리티]
-</summary>
-
-환경변수 관리 :
-<img src="https://img.shields.io/badge/dotenv-hex?style=flat&logo=dotenv&logoColor=ffffff&color=%#23ECD53F">
-
-패키지 관리 :
-<img src="https://img.shields.io/badge/uv-hex?style=flat&logo=uv&logoColor=ffffff&color=%23DE5FE9">
-
-코드 검증 : 
-<img src="https://img.shields.io/badge/ruff-hex?style=flat&logo=ruff&logoColor=ffffff&color=%23D7FF64">
-
-정적 타이핑 :
-<img src="https://img.shields.io/badge/ruff-hex?style=flat&logo=ruff&logoColor=ffffff&color=%23E92063">
 
 </details>
 
