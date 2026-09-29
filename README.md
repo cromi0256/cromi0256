@@ -1,9 +1,7 @@
 ## 👣 데이터 과학자가 되기까지의 여정 👣
 [자기소개서](https://portfolio2026-topaz-three.vercel.app/) : Stitch, AI Studio로 제작
 
-개발에 그치는 모델이 아닌 운영에 중심을 둔 퀄리티를 개발합니다.
-
-간결한 코드, 이해하기 쉬운 코드로 최적의 솔루션을 목표로 합니다.
+개발에 그치는 모델이 아닌 서빙과 운영에 중심을 둔 퀄리티를 개발합니다.
 
 거짓과 과장없이 검증된 시연으로 신뢰를 최우선합니다.
 
@@ -16,7 +14,6 @@
   * 부트캠프 : KT Aivle DX 7기 최우수상 [[link]](https://github.com/cromi0256/core/tree/main/etc/%5BProject02%5DaivleschoolDXsolution)
 
 * 📄프로젝트
-  * [Project00](https://github.com/cromi0256/core/tree/main/SOTA/ImageClf) : 파이토치에서 알려주는 이미지 분류 모델 설계 전략
   * [Project01](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/ML/%5BProject01%5DDaconCompetitionTop11) : 서울시립대 경진대회 우승자의 머신러닝 전략(시계열, 2D 공간 좌표)
   * [Project02](https://github.com/cromi0256/core/tree/653c6c033abd7693e8d21af2a964bb0cd3c33da3/etc/%5BProject02%5DaivleschoolDXsolution) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 도커를 사용한 클라우드 배포와 모니터링까지(Docker, AWS, FastAPI...)
@@ -98,7 +95,6 @@ CI/CD :
   * [Book - 핸즈온 머신러닝](https://www.hanbit.co.kr/books/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3%ED%8C%90?code=B1539397165)
   * [Book - AI 엔지니어링](https://www.hanbit.co.kr/books/ai-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81?code=B3535685426)
   * [awesome-production-ML](https://github.com/EthicalML/awesome-production-machine-learning)
-  * [Git - pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
   * [Skills - Google](https://www.skills.google/paths/504)
 
 * 📚읽을거리
