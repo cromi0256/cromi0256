@@ -5,7 +5,7 @@
 
 거짓과 과장없이 검증된 시연으로 신뢰를 최우선합니다.
 
-데이터분석가, ML엔지니어, AI엔지니어, MLOps 분야의 지식과 스킬을 갖고 있습니다.
+ML엔지니어, AI엔지니어, MLOps 분야의 지식과 스킬을 갖고 있습니다.
 
 
 * 📋경력
@@ -23,9 +23,10 @@
 
 * 💪기술 스택
 <details>
-<summary><a href="https://github.com/cromi0256/core/tree/main/ML">[ML]</a> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB" alt="Python"></summary>
+<summary><a href="https://github.com/cromi0256/core/tree/main/ML">[머신러닝]</a> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB" alt="Python"><img src="https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C">
+</summary>
 
-데이터분석 :
+데이터분석 : 
 <img src="https://img.shields.io/badge/pandas-hex?style=flat&logo=pandas&logoColor=ffffff&color=%23150458" alt="Pandas">
 <img src="https://img.shields.io/badge/Polars-hex?style=flat&logo=Polars&logoColor=%23ffffff&color=%230075FF" alt="Polars">
 
@@ -44,17 +45,10 @@
 </details>
 
 <details>
-<summary><a href="https://github.com/cromi0256/core/tree/main/DL">[DL]</a> <img src="https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C">
+<summary><a href="https://github.com/cromi0256/core/tree/main/Operations">[Operations]</a><img src="https://img.shields.io/badge/Bash-hex?style=flat&logo=GNU%20Bash&logoColor=ffffff&color=%234eaa25">
 </summary>
- 
-컴퓨터비전 : [torchvision]
 
-엣지AI : [ExecuTorch]
-</details>
-
-<details>
-<summary><a href="https://github.com/cromi0256/core/tree/main/Operations">[Operations]</a>
-</summary>
+#4EAA25
  
 버전컨트롤 : 
 <img src="https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032">
@@ -71,6 +65,9 @@ CI/CD :
 
 인프라형 코드 :
 <img src="https://img.shields.io/badge/Terraform-hex?style=flat&logo=Terraform&logoColor=ffffff&color=%23844FBA">
+
+엣지 AI :
+[ExecuTorch]
 
 </details>
 
