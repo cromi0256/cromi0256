@@ -47,8 +47,6 @@ ML엔지니어, AI엔지니어, MLOps 분야의 지식과 스킬을 갖고 있�
 <details>
 <summary><a href="https://github.com/cromi0256/core/tree/main/Operations">[Operations]</a><img src="https://img.shields.io/badge/Bash-hex?style=flat&logo=GNU%20Bash&logoColor=ffffff&color=%234eaa25">
 </summary>
-
-#4EAA25
  
 버전컨트롤 : 
 <img src="https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032">
@@ -82,11 +80,6 @@ CI/CD :
 <img src="https://img.shields.io/badge/LangGraph-hex?style=flat&logo=LangGraph&logoColor=ffffff&color=%237FC8FF">
 
 </details>
-
-* 💡[Brilliant!](https://github.com/cromi0256/core/tree/main/SOTA)
-  * [판다스에서 더 빠른 폴라스로](https://github.com/cromi0256/core/tree/main/SOTA/Polars)
-  * [설명력 있는 모델을 만드려면](https://github.com/cromi0256/core/tree/main/SOTA/Explain)
-  * [데이터 분석과 ML 분석 시각화](https://github.com/cromi0256/core/tree/main/SOTA/Analysis)
 
 * ✨추천 자료
   * [Book - 핸즈온 머신러닝](https://www.hanbit.co.kr/books/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3%ED%8C%90?code=B1539397165)
