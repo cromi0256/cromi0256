@@ -1,5 +1,5 @@
 ## 👣 데이터 과학자가 되기까지의 여정 👣
-[자기소개서](https://portfolio2026-topaz-three.vercel.app/) : Stitch, AI Studio로 제작
+[포트폴리오](https://portfolio2026-topaz-three.vercel.app/) : Stitch, AI Studio로 제작
 
 개발에 그치는 모델이 아닌 서빙과 운영에 중심을 둔 퀄리티를 개발합니다.
 
