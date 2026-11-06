@@ -5,7 +5,7 @@
 
 거짓과 과장없이 검증된 시연으로 신뢰를 최우선합니다.
 
-ML엔지니어, AI엔지니어, MLOps 분야의 지식과 스킬을 갖고 있습니다.
+ML엔지니어, AI엔지니어, MLOps, 클라우드 컴퓨팅 분야의 지식과 스킬을 갖고 있습니다.
 
 
 * 📋경력
@@ -55,7 +55,7 @@ ML엔지니어, AI엔지니어, MLOps 분야의 지식과 스킬을 갖고 있�
 CI/CD : 
 <img src="https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF">
 
-클라우드컴퓨팅 : 
+[클라우드컴퓨팅](https://github.com/cromi0256/core/tree/main/Operations/CloudComputing) : 
 <img src="https://img.shields.io/badge/Google_Cloud-hex?style=flat&logo=Google%20Cloud&logoColor=ffffff&color=%234285F4">
 
 컨테이너화 : 
