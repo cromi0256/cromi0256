@@ -14,16 +14,16 @@ ML엔지니어, AI엔지니어, MLOps, 클라우드 컴퓨팅 분야의 지식�
   * 부트캠프 : KT Aivle DX 7기 최우수상 [[link]](https://github.com/cromi0256/core/tree/main/etc/%5BProject02%5DaivleschoolDXsolution)
 
 * 📄프로젝트
-  * [Project01](https://github.com/cromi0256/core/tree/main/ML/[Project01]DaconCompetitionTop11) : 서울시립대 경진대회 우승자의 머신러닝 전략(시계열, 2D 공간 좌표)
+  * [Project01](https://github.com/cromi0256/core/tree/main/Develope/ML/[Project01]DaconCompetitionTop11) : 서울시립대 경진대회 우승자의 머신러닝 전략(시계열, 2D 공간 좌표)
   * [Project02](https://github.com/cromi0256/core/blob/main/etc/[Project02]aivleschoolDXsolution/DX%2018%EC%A1%B0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 도커를 사용한 클라우드 배포와 모니터링까지(Docker, AWS, FastAPI...)
-  * [Project04](https://github.com/cromi0256/core/tree/main/ML/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(PyTorch, ExecuTorch...)
-  * [Project05](https://github.com/cromi0256/core/tree/main/ML/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
+  * [Project04](https://github.com/cromi0256/core/tree/main/Develope/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(PyTorch, ExecuTorch...)
+  * [Project05](https://github.com/cromi0256/core/tree/main/Develope/ML/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
   * [WIP][Project06](https://github.com/cromi0256/DailyInspiration) : AI에이전트로 매일 영감을 주는 웹 서비스 개발(gemini, langchain, streamlit...)
 
 * 💪기술 스택
 <details>
-<summary><a href="https://github.com/cromi0256/core/tree/main/ML">[머신러닝]</a> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB" alt="Python"><img src="https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C">
+<summary><a href="https://github.com/cromi0256/core/tree/main/Develope/ML">[머신러닝]</a> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB" alt="Python"><img src="https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C">
 </summary>
 
 데이터분석 : 
