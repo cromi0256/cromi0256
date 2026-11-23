@@ -1,93 +1,29 @@
-## 👣 데이터 과학자가 되기까지의 여정 👣
-[포트폴리오](https://portfolio2026-topaz-three.vercel.app/) : Stitch, AI Studio로 제작
+# 🖐️Introduction
 
-개발에 그치는 모델이 아닌 서빙과 운영에 중심을 둔 퀄리티를 개발합니다.
+### 운영과 설명에 중심을 둔 ML/AI 엔지니어
 
-거짓과 과장없이 검증된 시연으로 신뢰를 최우선합니다.
+데이터 분석부터 모델 구현까지 과정, 검증, 결과, 인사이트를 제공합니다.
 
-ML엔지니어, AI엔지니어, MLOps, 클라우드 컴퓨팅 분야의 지식과 스킬을 갖고 있습니다.
+또한, 모델을 프로덕션 환경에 배포하여 모니터링 및 유지보수 합니다.
 
+문제와 데이터를 Design, 설명 가능한 견고한 모델을 Develope, 지속 가능한 서비스 Operate
 
 * 📋경력
   * 자격증 : 컴퓨터활용능력 1급, ADsP, SQLD, 빅데이터 분석기사
   * 대회 : K리그-서울시립대 공개 AI 경진대회 장려상 [[link]](https://github.com/cromi0256/core/blob/main/etc/236647-1-515950.pdf)
   * 부트캠프 : KT Aivle DX 7기 최우수상 [[link]](https://github.com/cromi0256/core/tree/main/etc/%5BProject02%5DaivleschoolDXsolution)
 
-* 📄프로젝트
-  * [Project01](https://github.com/cromi0256/core/tree/main/Develope/ML/[Project01]DaconCompetitionTop11) : 서울시립대 경진대회 우승자의 머신러닝 전략(시계열, 2D 공간 좌표)
+## 📄주요 프로젝트
+### [Project01](https://github.com/cromi0256/core/tree/main/Develope/ML/[Project01]DaconCompetitionTop11) : 서울시립대 경진대회 우승자의 머신러닝 전략(시계열, 2D 공간 좌표)
   * [Project02](https://github.com/cromi0256/core/blob/main/etc/[Project02]aivleschoolDXsolution/DX%2018%EC%A1%B0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 도커를 사용한 클라우드 배포와 모니터링까지(Docker, AWS, FastAPI...)
   * [Project04](https://github.com/cromi0256/core/tree/main/Develope/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(PyTorch, ExecuTorch...)
   * [Project05](https://github.com/cromi0256/core/tree/main/Develope/ML/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
-  * [WIP][Project06](https://github.com/cromi0256/DailyInspiration) : AI에이전트로 매일 영감을 주는 웹 서비스 개발(gemini, langchain, streamlit...)
 
-* 💪기술 스택
-<details>
-<summary><a href="https://github.com/cromi0256/core/tree/main/Develope/ML">[머신러닝]</a> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=%23ffffff&color=%233776AB" alt="Python"><img src="https://img.shields.io/badge/PyTorch-hex?style=flat&logo=PyTorch&logoColor=ffffff&color=%23EE4C2C">
-</summary>
+## 💪기술 스택
+...
 
-데이터분석 : 
-<img src="https://img.shields.io/badge/pandas-hex?style=flat&logo=pandas&logoColor=ffffff&color=%23150458" alt="Pandas">
-<img src="https://img.shields.io/badge/Polars-hex?style=flat&logo=Polars&logoColor=%23ffffff&color=%230075FF" alt="Polars">
-
-데이터시각화 :
-<img src="https://img.shields.io/badge/Plotly-hex?style=flat&logo=Plotly&logoColor=ffffff&color=%237A76FF" alt="Plotly">
-
-모델개발 :
-<img src="https://img.shields.io/badge/scikit--learn-hex?style=flat&logo=scikit-learn&logoColor=ffffff&color=%23F7931E" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Optuna-hex?style=flat&logo=Optuna&logoColor=ffffff&color=%23002C76" alt="Optuna">
-
-모델평가 :
-
-실험추적 :
-<img src="https://img.shields.io/badge/MLflow-hex?style=flat&logo=MLflow&logoColor=ffffff&color=%230194E2" alt="MLflow">
-
-</details>
-
-<details>
-<summary><a href="https://github.com/cromi0256/core/tree/main/Operations">[Operations]</a><img src="https://img.shields.io/badge/Bash-hex?style=flat&logo=GNU%20Bash&logoColor=ffffff&color=%234eaa25">
-</summary>
- 
-버전컨트롤 : 
-<img src="https://img.shields.io/badge/Git-hex?style=flat&logo=Git&logoColor=ffffff&color=%23F05032">
-<img src="https://img.shields.io/badge/GitHub-hex?style=flat&logo=GitHub&logoColor=ffffff&color=%23181717">
-
-CI/CD : 
-<img src="https://img.shields.io/badge/GitHub_Actions-hex?style=flat&logo=GitHub%20Actions&logoColor=ffffff&color=%232088FF">
-
-[클라우드컴퓨팅](https://github.com/cromi0256/core/tree/main/Operations/CloudComputing) : 
-<img src="https://img.shields.io/badge/Google_Cloud-hex?style=flat&logo=Google%20Cloud&logoColor=ffffff&color=%234285F4">
-
-컨테이너화 : 
-<img src="https://img.shields.io/badge/Docker-hex?style=flat&logo=Docker&logoColor=ffffff&color=%232496ED">
-
-인프라형 코드 :
-<img src="https://img.shields.io/badge/Terraform-hex?style=flat&logo=Terraform&logoColor=ffffff&color=%23844FBA">
-
-엣지 AI :
-[ExecuTorch]
-
-</details>
-
-<details>
-<summary><a href="https://github.com/cromi0256/core/tree/main/Agentic_AI">[Agentic AI]</a> <img src="https://img.shields.io/badge/Hugging_Face-hex?style=flat&logo=Hugging%20Face&logoColor=ffffff&color=%23FFD21E">
-</summary>
- 
-파운데이션 :
-
-프레임워크 :
-<img src="https://img.shields.io/badge/LangChain-hex?style=flat&logo=LangChain&logoColor=ffffff&color=%237FC8FF">
-<img src="https://img.shields.io/badge/LangGraph-hex?style=flat&logo=LangGraph&logoColor=ffffff&color=%237FC8FF">
-
-</details>
-
-* ✨추천 자료
-  * [Book - 핸즈온 머신러닝](https://www.hanbit.co.kr/books/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3%ED%8C%90?code=B1539397165)
-  * [Book - AI 엔지니어링](https://www.hanbit.co.kr/books/ai-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81?code=B3535685426)
-  * [awesome-production-ML](https://github.com/EthicalML/awesome-production-machine-learning)
-  * [Skills - Google](https://www.skills.google/paths/504)
-
-* 📚읽을거리
-  * [마크다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-  * [뱃지 제작](https://shields.io/badges)
-  * [개발자 로드맵](https://roadmap.sh)
+## 💡더 알아보기
+- [더 많은 프로젝트]
+- [실전 가이드]
+- 
