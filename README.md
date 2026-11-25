@@ -6,7 +6,9 @@
 
 또한, 모델을 프로덕션 환경에 배포하여 모니터링 및 유지보수 합니다.
 
-신뢰할 수 있는 모델을 기반으로 지속 가능한 서비스를 운영합니다.
+신뢰할 수 있는 모델 설계로 지속 가능한 서비스를 운영합니다.
+
+매주 [실전 가이드](https://github.com/cromi0256/core/tree/main/Guides)를 작성하여 독점적인 영감을 줍니다.
 
 ## 🎯 연구 및 기술적 관심분야
 - [MLOps](https://ml-ops.org/)
@@ -16,7 +18,7 @@
 
 ## 📄주요 프로젝트
 
-### [Project01](https://portfolio2026-topaz-three.vercel.app/) : 서울시립대 경진대회 우승자의 머신러닝 전략
+### [Project01](https://portfolio2026-topaz-three.vercel.app/) : 데이콘 서울시립대 경진대회 우승자의 머신러닝 전략
 - Problem: 축구 경기 데이터에서 마지막 패스 후 공의 좌표 예측
 - Approach: Permutation Importance를 바탕으로 여러 특성을 실험하며, 오차 분석을 통해 특정 패턴을 포착
 - Contribution: 데이터 분석, 데이터 전처리, 특성 공학, 모델 훈련, 모델 검증, 모델 배포
@@ -31,7 +33,12 @@
   * [Project05](https://github.com/cromi0256/core/tree/main/Develope/ML/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
 -->
 ## 💪기술 스택
-...
+* Language: Python, SQL, bash
+* ML/DL: Scikit-Learn, Pytorch
+* LLM/RAG: LangChain
+* Data/DB: Polars, PostgreSQL
+* Serving/Backend: FastAPI, ONNX
+* MLOps: MLflow, GCP, Docker
 
 ## 💡더 알아보기
 - [더 많은 프로젝트]
