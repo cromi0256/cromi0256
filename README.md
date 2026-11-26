@@ -24,7 +24,7 @@
 - Contribution: 데이터 분석, 데이터 전처리, 특성 공학, 모델 훈련, 모델 검증, 모델 배포
 - Result: 유클라디안 거리 오차 12.83347; 참가팀 937팀 중 11위
 - Tech Stack: `Python` `Pandas` `AutoML` `Matplotlib`
-- [레포지트리](https://github.com/cromi0256/core/tree/main/Develope/ML/[Project01]DaconCompetitionTop11)
+- [레포지트리](https://github.com/cromi0256/core/tree/main/Projects/[Project01]/[Project01]DaconCompetitionTop11)
 
 <!--
   * [Project02](https://github.com/cromi0256/core/blob/main/etc/[Project02]aivleschoolDXsolution/DX%2018%EC%A1%B0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) : 현업에 맞춘 프로덕트 매니징
