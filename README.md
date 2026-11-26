@@ -34,17 +34,26 @@
 -->
 
 ## 💪기술 스택
-* Language: ![Static Badge](https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=ffffff)
-, ![Static Badge](https://img.shields.io/badge/SQL-%23003B57?logo=sqlite&logoColor=ffffff)
-, ![Static Badge](https://img.shields.io/badge/bash-%234EAA25?logo=gnubash&logoColor=ffffff)
-* ML/DL: ![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikit-learn&logoColor=ffffff)
-, ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=PyTorch&logoColor=ffffff)
-* LLM/RAG: ![Static Badge](https://img.shields.io/badge/LangChain-%237FC8FF?logo=LangChain%20Corporate&logoColor=ffffff)
-* Data/DB: ![Static Badge](https://img.shields.io/badge/Polars-%230075FF?logo=Polars&logoColor=ffffff)
-, ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=PostgreSQL&logoColor=ffffff)
-* Serving/Backend: FastAPI, ONNX
-* MLOps: ![Static Badge](https://img.shields.io/badge/mlflow-%237FC8FF?logo=mlflow&logoColor=ffffff)
-, GCP, Docker
+* Language:
+ ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/SQL-%23003B57?logo=sqlite&logoColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/bash-%234EAA25?logo=gnubash&logoColor=ffffff)
+* ML/DL:
+ ![Static Badge](https://img.shields.io/badge/Scikit--learn-%23F7931E?logo=scikit-learn&logoColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=PyTorch&logoColor=ffffff)
+* LLM/RAG:
+ ![Static Badge](https://img.shields.io/badge/LangChain-%237FC8FF?logo=LangChain%20Corporate&logoColor=ffffff)
+* Data/DB:
+ ![Static Badge](https://img.shields.io/badge/Polars-%230075FF?logo=Polars&logoColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=PostgreSQL&logoColor=ffffff)
+* Serving/Backend:
+ ![Static Badge](https://img.shields.io/badge/ONNX-%23005CED?logo=onnx&logoColor=ffffff)
+* MLOps:
+ ![Static Badge](https://img.shields.io/badge/Git-%23F03C2E?logo=git&logoColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/MLflow-%237FC8FF?logo=mlflow&logoColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/Google_Cloud-%234285F4?logo=google%20cloud&logoColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=ffffff)
+
 
 ## 💡더 알아보기
 - [더 많은 프로젝트]
