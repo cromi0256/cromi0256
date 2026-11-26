@@ -32,13 +32,19 @@
   * [Project04](https://github.com/cromi0256/core/tree/main/Develope/DL/ExecuTorch/Project04) : 모바일 기기에서 작동하는 Image Segment 모델 배포(PyTorch, ExecuTorch...)
   * [Project05](https://github.com/cromi0256/core/tree/main/Develope/ML/SOTA/Project05) : 2026 최신 트렌드의 달라진 ML개발 환경(uv, polars, plotly...)
 -->
+
 ## 💪기술 스택
-* Language: Python, SQL, bash
-* ML/DL: Scikit-Learn, Pytorch
-* LLM/RAG: LangChain
-* Data/DB: Polars, PostgreSQL
+* Language: ![Static Badge](https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=ffffff)
+, ![Static Badge](https://img.shields.io/badge/SQL-%23003B57?logo=sqlite&logoColor=ffffff)
+, ![Static Badge](https://img.shields.io/badge/bash-%234EAA25?logo=gnubash&logoColor=ffffff)
+* ML/DL: ![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikit-learn&logoColor=ffffff)
+, ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=PyTorch&logoColor=ffffff)
+* LLM/RAG: ![Static Badge](https://img.shields.io/badge/LangChain-%237FC8FF?logo=LangChain%20Corporate&logoColor=ffffff)
+* Data/DB: ![Static Badge](https://img.shields.io/badge/Polars-%230075FF?logo=Polars&logoColor=ffffff)
+, ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=PostgreSQL&logoColor=ffffff)
 * Serving/Backend: FastAPI, ONNX
-* MLOps: MLflow, GCP, Docker
+* MLOps: ![Static Badge](https://img.shields.io/badge/mlflow-%237FC8FF?logo=mlflow&logoColor=ffffff)
+, GCP, Docker
 
 ## 💡더 알아보기
 - [더 많은 프로젝트]
