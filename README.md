@@ -26,6 +26,14 @@
 - Tech Stack: `Python` `Pandas` `AutoML` `Matplotlib`
 - [레포지트리](https://github.com/cromi0256/core/tree/main/Projects/[Project01]/[Project01]DaconCompetitionTop11)
 
+### [Project03v2](isops.onrender.com) : 해석 중심 ML 모델 원격 배포
+- Problem: iris 데이터셋을 활용하여 붓꽃의 품종을 예측
+- Approach: 단순 예측이 아닌 결과 해석, 이상치 여부 확인, SHAP 해석을 추가하여 투명한 설명
+- Contribution: 모델 설계, 모델 패키징, 컨테이너화, 원격배포
+- Result: 원격 웹 서비스를 구축; EBM 분류기 결과 설명, 이상치 탐지, SHAP값 이미지 출력
+- Tech Stack: `Python` `interpretml` `scikit-learn` `SHAP` `FastAPI` `streamlit` `Docker`
+- [레포지트리](https://github.com/cromi0256/IrisOps)
+
 <!--
   * [Project02](https://github.com/cromi0256/core/blob/main/etc/[Project02]aivleschoolDXsolution/DX%2018%EC%A1%B0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) : 현업에 맞춘 프로덕트 매니징
   * [Project03dev](https://github.com/cromi0256/core/tree/main/Operations/Project03dev) : 모델 개발을 넘어, 도커를 사용한 클라우드 배포와 모니터링까지(Docker, AWS, FastAPI...)
@@ -56,6 +64,6 @@
 
 
 ## 💡더 알아보기
-- [더 많은 프로젝트]
+- [더 많은 프로젝트](https://github.com/cromi0256/core/tree/main/Projects)
 - [실전 가이드](https://github.com/cromi0256/core/tree/main/Guides)
 - [태도·마음가짐](https://github.com/cromi0256/core/tree/main/[VIRTUES])
